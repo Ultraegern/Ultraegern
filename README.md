@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ultraegern
-- 👀 I’m interested in Gamedev.
-- 🌱 I’m currently learning Godot and Python.
+- 👀 I’m interested in Gamedev and Homelabing.
+- 🌱 I’m currently learning Godot, Python and Bash.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
