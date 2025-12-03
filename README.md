@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Ultraegern
-- 👀 I’m interested in Gamedev and Homelabing.
-- 🌱 I’m currently learning Godot, Python, Rust and Bash.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+### I can code/use:  
+<img src="https://skillicons.dev/icons?i=rust,godot,python,html,css,ts,docker,nginx,actix,linux,bash,vscode,blender" height="60" alt="what i can code">
 
 <!---
 Ultraegern/Ultraegern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
