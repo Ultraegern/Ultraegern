@@ -1,4 +1,4 @@
-## Langueses:  
+## Languages:  
 ### I prefer  
 <img src="https://skillicons.dev/icons?i=rust,godot" height="60" alt="what i can code">
 
