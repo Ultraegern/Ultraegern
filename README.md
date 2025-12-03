@@ -1,9 +1,9 @@
 ## Langueses:  
 ### I prefer  
-<img src="https://skillicons.dev/icons?i=rust,godot,html,css" height="60" alt="what i can code">
+<img src="https://skillicons.dev/icons?i=rust,godot" height="60" alt="what i can code">
 
 ### I can also program  
-<img src="https://skillicons.dev/icons?i=python,ts,bash" height="60" alt="what i can code">
+<img src="https://skillicons.dev/icons?i=html,css,ts,python,bash" height="60" alt="what i can code">
 
 ### And use these frameworks
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx,actix," height="60" alt="what i can code">
