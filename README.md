@@ -1,12 +1,7 @@
-## Languages:  
-### I prefer  
-<img src="https://skillicons.dev/icons?i=rust,godot" height="60" alt="what i can code">
+# Hello there 👋, i'm Asger
+I am passionate about Rust, Linux and Godot
 
-### I can also program  
-<img src="https://skillicons.dev/icons?i=html,css,ts,python,bash" height="60" alt="what i can code">
-
-### And use these frameworks
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,actix," height="60" alt="what i can code">
+I curently work at @luftkode
 
 <!---
 Ultraegern/Ultraegern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
