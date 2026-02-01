@@ -1,7 +1,7 @@
 # Hello there 👋, i'm Asger
 I am passionate about Rust, Linux and Godot
 
-I curently work at @luftkode
+I curently work at [SkyTem](https://github.com/luftkode)
 
 <!---
 Ultraegern/Ultraegern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
