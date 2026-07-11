@@ -1,7 +1,5 @@
 # Hello there 👋, i'm Asger
-I am passionate about Rust, Linux and Godot
-
-I currently work at [SkyTem](https://github.com/luftkode)
+I am passionate about Rust, Html/Css Linux and Godot
 
 <!---
 Ultraegern/Ultraegern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
